@@ -1,6 +1,6 @@
 ## Laporan Donasi Yayasan Alfi Yasrin
 
-![Logo](https://github.com/alfiyasrin/donations/blob/gh-pages/logo.png)
+![Logo](https://raw.githubusercontent.com/alfiyasrin/donations/gh-pages/logo.png)
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
