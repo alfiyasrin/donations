@@ -9,3 +9,8 @@
 | No. | Tanggal | Keterangan | Debet | Kredit |
 |:-|:-|:-|:-|:-|
 | 1 | 26-Mar-21 | Donasi | Rp 50.000 | |
+| 2 | 31-Mar-21 | Donasi | Rp 500.000 | |
+| 3 | 04-Apr-21 | Donasi | Rp 1.000.000 | |
+| 4 | 23-Apr-21 | Insentif Bu Nani | | Rp 225.000 |
+| 5 | 28-Apr-21 | Donasi | Rp 500.000 | |
+| 6 | 08-Mei-21 | Insentif Bu Nani | | Rp 225.000 |
