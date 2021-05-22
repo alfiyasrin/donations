@@ -6,9 +6,6 @@
 
 ### Bantuan guru ngaji terdampak covid-19
 
-| No.        | head two          | three |
-|:-------------|:------------------|:------|
-| 1           | good swedish fish | nice  |
-| 2 | good and plenty   | nice  |
-| 3           | good `oreos`      | hmm   |
-| 4           | good `zoute` drop | yumm  |
+| No. | Tanggal | Keterangan | Debet | Kredit |
+|:-|:-|:-|:-|:-|
+| 1 | 26-Mar-21 | Donasi | Rp 50.000 | |
