@@ -14,3 +14,5 @@
 | 4 | 23-Apr-21 | Insentif Bu Nani | | Rp 225.000 |
 | 5 | 28-Apr-21 | Donasi | Rp 500.000 | |
 | 6 | 08-Mei-21 | Insentif Bu Nani | | Rp 225.000 |
+|  |  | Total | Rp 2.050.000 | Rp 475.000 |
+|  |  | Saldo |  | Rp 1.575.000 |
