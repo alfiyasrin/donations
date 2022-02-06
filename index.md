@@ -17,7 +17,10 @@
 | 7 | 1-Jul-21 | Donasi | Rp 225.000 |
 | 8 | 30-Jul-21 | Donasi | Rp 500.000 |
 | 9 | 28-Ags-21 | Donasi | Rp 500.000 |
-|  |  | Total | Rp 4.275.000 |
+| 10 | 1-Okt-21 | Donasi | Rp 500.000 |
+| 11 | 29-Okt-21 | Donasi | Rp 500.000 |
+| 12 | 26-Nov-21 | Donasi | Rp 500.000 |
+|  |  | Total | Rp 5.775.000 |
 
 ### Pengeluaran
 
@@ -33,7 +36,11 @@
 | 8 | 25-Jul-21 | Insentif Guru | Rp 175.000 |
 | 9 | 13-Ags-21 | Insentif Guru | Rp 350.000 |
 | 10 | 29-Ags-21 | Insentif Guru | Rp 250.000 |
-|  |  | Total | Rp 2.025.000 |
+| 11 | 9-Okt-21 | Insentif Guru | Rp 250.000 |
+| 12 | 29-Okt-21 | Insentif Guru | Rp 325.000 |
+| 13 | 15-Nov-21 | Insentif Guru | Rp 250.000 |
+| 14 | 29-Nov-21 | Insentif Guru | Rp 250.000 |
+|  |  | Total | Rp 3.100.000 |
 
 ## Laporan Keuangan Bantuan Fasilitas Mengaji
 
@@ -71,7 +78,7 @@
 |:-|:-|:-|:-|
 | 1 | 30-Apr-21 | Operasional Pengurus | Rp 150.000 |
 | 2 | 1-Mei-21 | Operasional Poster | Rp 50.000 |
-|  |  | Total | Rp 225.000 |
+|  |  | Total | Rp 200.000 |
 
 ## Laporan Keuangan Bantuan Pencetakan Guru Ngaji
 
@@ -88,7 +95,7 @@
 | No. | Tanggal | Keterangan | Jumlah |
 |:-|:-|:-|:-|
 | 1 | 16-Jun-21 | Beasiswa Pendidikan | Rp 160.000 |
-|  |  | Total | Rp 225.000 |
+|  |  | Total | Rp 160.000 |
 
 ## Laporan Keuangan Bantuan Kesejahteraan Mualaf
 
